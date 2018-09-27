@@ -2,6 +2,7 @@
 
 To run code : In android gradle.properties , change String api_key (xxxxxxxxxxxxxxxxxxxxxxxxxx of themoviedb.org API) by your key (Line 19).
 
+ Stage 2: Trailers, Reviews, and Favorites...
 In this stage you’ll add additional functionality to the app you built in Stage 1.
 You’ll add more information to your movie details view:
 
