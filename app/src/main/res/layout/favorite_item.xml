@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="185dp"
+        android:layout_height="277dp"
+        android:scaleType="centerCrop"
+        android:id="@+id/movie_poster_favorite"
+        android:layout_marginBottom="@dimen/fivedp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:id="@+id/title_favorite"
+        android:textColor="@color/primary"
+        android:gravity="center"
+        />
+</LinearLayout>
